@@ -2,7 +2,7 @@
  
 <h3 align="center">Backend Engineer · Buenos Aires, Argentina</h3>
  
-<p align="center"><em>A decade leading operations. Now I build the systems.</em></p>
+<p align="center"><em>A decade leading operations. Now building systems.</em></p>
  
 ---
  
