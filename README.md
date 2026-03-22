@@ -66,11 +66,13 @@ A production Telegram bot built entirely with Claude + Meridian MCP as its backb
  
 ### 📫 Get in Touch
  
-<a href="www.linkedin.com/in/gonzalezluisadrian" target="_blank">
+<a href="https://www.linkedin.com/in/gonzalezluisadrian" target="_blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
 </a>
- 
-&nbsp; Or reach me by email: **gonzalezluis.adri@gmail.com**
+
+<a href="mailto:gonzalezluis.adri@gmail.com*" target="_blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
+</a>
  
 ---
  
