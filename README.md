@@ -2,7 +2,7 @@
  
 <h3 align="center">Backend Engineer · Buenos Aires, Argentina</h3>
  
-<p align="center"><em>A decade leading operations. Now building systems.</em></p>
+<p align="center"><em>A decade leading operations.</em></p>
  
 ---
  
@@ -26,7 +26,7 @@ An open-source **multi-agent context transport system** built on MCP + gRPC + Po
  
 **🤖 [Self-BOT](https://github.com/Viper9009adr/Self-Bot-)**
  
-A production Telegram bot built entirely with Claude + Meridian MCP as its backbone. It's a live showcase of what Meridian can do: cross-session memory, multi-tenant context injection, JWT-based auth, and a pre-LLM deterministic logic layer.
+An AI assistant built entirely with Claude + Meridian MCP as its backbone. It's a live showcase of what Meridian can do: cross-session memory, multi-tenant context injection, JWT-based auth, and a pre-LLM deterministic logic layer.
  
 ---
  
