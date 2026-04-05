@@ -29,53 +29,46 @@ An open-source **multi-agent context transport system** built on MCP + gRPC + Po
 An AI assistant built entirely with Claude + Meridian MCP as its backbone. It's a live showcase of what Meridian can do: cross-session memory, multi-tenant context injection, JWT-based auth, and a pre-LLM deterministic logic layer.
  
 ---
- 
-### 💬 Ask Me About
- 
-`Python` · `gRPC` · `PostgreSQL` · `MCP Protocol` · `Agent Architecture` · `System Design` · `Linux`
- 
----
- 
-### 🛠️ Tech & Tools
- 
-**🔹 Backend & Core**
- 
-<img src="https://skillicons.dev/icons?i=python,postgres,redis,docker" alt="backend stack" />
- 
-**🔹 Infrastructure & Systems**
- 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" alt="infrastructure" />
- 
-**🔹 Exploring**
- 
-<img src="https://skillicons.dev/icons?i=c,cpp" alt="c and cpp" />
- 
----
- 
-### 📊 GitHub Stats
- 
-<div align="center">
- 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=viper9009adr&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/viper9009adr)
- 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viper9009adr&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/viper9009adr)
- 
-</div>
- 
----
- 
-### 📫 Get in Touch
- 
-<a href="https://www.linkedin.com/in/gonzalezluisadrian" target="_blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
-</a>
 
-<a href="mailto:gonzalezluis.adri@gmail.com*" target="_blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
-</a>
- 
+### ⚙️ Stack
+
+**Languages:** Python · C++
+
+**Frameworks:** Flask · FastAPI · FastMCP
+
+**Databases & Storage:** PostgreSQL · SQLite · Redis · Qdrant
+
+**AI / Inference:** Ollama · local embedding pipelines · semantic search
+
+**Infrastructure:** Docker · Docker Compose · Linux
+
+**Protocols & Standards:** gRPC · MCP · REST · JWT
+
+**Exploring:** C++ · TensorFlow
+
 ---
- 
+
+### 🌱 Currently Exploring
+
+- Cross-task dependency graphs in multi-agent orchestration  
+- Low-level inference optimization and quantization theory  
+- How transformer attention mechanics should shape context design
+
+---
+
+### 🤝 Open To
+
+Collaborating on **agent infrastructure**, **backend systems**, or anything where the hard part is getting the architecture right before writing a single line.
+
+---
+
+### 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gonzalezluisadrian-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gonzalezluisadrian)
+[![Email](https://img.shields.io/badge/Email-gonzalezluis.adri@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gonzalezluis.adri@gmail.com)
+
+---
+
 <div align="center">
   <em>"I don't copy-paste solutions. I understand them."</em>
 </div>
