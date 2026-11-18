@@ -1,21 +1,16 @@
 <h1 align="center">Hi, I'm Luis Adrian Gonzalez </h1>
  
-<h3 align="center">Backend Engineer · Buenos Aires, Argentina</h3>
+<h3 align="center">Backend Software Engineer · Buenos Aires, Argentina</h3>
  
-<p align="center"><em>A decade leading operations.</em></p>
  
 ---
  
 ### About Me
  
-I'm a self-taught backend software engineer based in **Buenos Aires, Argentina**.
- 
-My path is a little different: I spent 10+ years in operational and administrative leadership — running teams, solving high-consequence problems under pressure, and owning end-to-end outcomes.
- 
-When I started writing code, I didn't outsource my understanding. I built it from first principles, deliberately, one layer at a time.
- 
-Today I work at the intersection of **systems architecture**, **agent infrastructure**, and **data pipelines** — with a strong bias toward things that actually work in production.
- 
+Backend Software Engineer specializing in Python, Linux systems, relational and vector data persistence, and containerized cloud infrastructure. Currently pursuing a B.S./M.S. in Data Science (Licenciatura en Ciencia de Datos) at the University of Buenos Aires (FCEN-UBA), focusing on mathematical modeling, optimization, and machine learning.
+
+I build REST and gRPC services, PostgreSQL persistence layers, and multi-provider AI gateways deployed on Linux, Docker, and GCP. Before software engineering, I spent a decade in operational and administrative leadership for the Buenos Aires City Government — scaling a city-wide safety system from 4 to 45 operational units (DEIM) across the subway network, coordinating field teams during high-consequence events, and owning the legal, administrative, and logistical pipeline end-to-end.
+
 ---
  
 ### What I'm Building
@@ -36,21 +31,10 @@ An AI assistant built entirely with Claude + Meridian MCP as its backbone. It's 
 
 **Frameworks:** Flask · FastAPI · FastMCP
 
-**Databases & Storage:** PostgreSQL · SQLite · Redis · Qdrant
-
-**AI / Inference:** Ollama · local embedding pipelines · semantic search
+**Databases & Storage:** PostgreSQL · SQLite · Redis
 
 **Infrastructure:** Docker · Docker Compose · Linux
 
-**Protocols & Standards:** gRPC · MCP · REST · JWT
-
-**Exploring:** C++ · TensorFlow · C · Assembly
-
----
-
-### Open To
-
-Collaborating on **agent infrastructure**, **backend systems**, or anything where the hard part is getting the architecture right before writing a single line.
 
 ---
 
